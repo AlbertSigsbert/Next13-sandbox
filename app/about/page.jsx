@@ -1,6 +1,6 @@
 const AboutPage = () => {
   return (
-    <div className="mx-[6%] my-8">
+    <div className="my-8">
       <h1 className="text-2xl font-bold my-2">About Next13</h1>
       <p>
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta, at

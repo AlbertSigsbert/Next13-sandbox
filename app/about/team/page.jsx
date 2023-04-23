@@ -1,6 +1,6 @@
 const TeamPage = () => {
   return (
-    <div className="mx-[6%] my-8">
+    <div className="my-8">
       <h1 className="text-2xl font-bold my-2">Our Team</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum,
